@@ -1,0 +1,13 @@
+1. se instala el paquete con (npx create-react-app basicos )
+2. LOS HOOKS SE DIVIDEN EN 2 GRUPOS 
+Básicos
+    (100% de sus proyectos)
+        useState 
+        useEffect
+Avanzados 
+    (tal vez no en todos los proyectos)
+        useContext 
+        useRef 
+        useReducer 
+        useCallback = estos solo utilizan FACEBOOK
+        useMemo = estos solo utilizan FACEBOOK
